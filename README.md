@@ -37,7 +37,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">NexusFlow</h3>
+      <h3 align="center">NexusFlowAI</h3>
       <div align="center">
         <a href="https://nexus-flow-orrwtkrkb-sjos0s-projects.vercel.app/" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sjos0&repo=NexusFlowAI&theme=tokyonight" />
