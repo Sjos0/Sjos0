@@ -1,7 +1,7 @@
 <!-- Início do Cabeçalho -->
 <div align="center">
   <a href="https://github.com/Sjos0">
-  <img src="https://github.com/Sjos0.png" width="150px" alt="Foto de perfil do Samuel José"/>
+  <img src="./profile-border.svg" width="170px" alt="Foto de perfil do Samuel José"/>
   </a>
   <h1 align="center">Olá, eu sou o Samuel José 👋</h1>
   <h3 align="center">Desenvolvedor e criador na era da IA, transformando ideias em realidade através do 'Vibe Coding'.</h3>
