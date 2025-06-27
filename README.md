@@ -75,7 +75,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo" />
 </div>
 <p align="left">
-  E também: <b>Google AI Studio, Firebase Studio, Jules, Stitch, 21st.dev, ui.acernity.</b>
+  E também: <b> Google AI Studio, Firebase Studio, Jules, Stitch, 21st.dev, ui.aceternity. </b>
 </p>
 
 ---
