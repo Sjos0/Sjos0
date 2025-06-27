@@ -44,7 +44,7 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sjos0&repo=NexusFlowAI&theme=tokyonight&show_owner=false&logo=https://raw.githubusercontent.com/Sjos0/NexusFlowAI/master/public/images/favicon.ico" />
         </a>
         <p>
-          <a href="https://nexus-flow-orrwtkrkb-sjos0s-projects.vercel.app/" target="_blank">
+          <a href="https://nexus-flow-ai.vercel.app/" target="_blank">
             <b>Ver projeto ao vivo ➡️</b>
           </a>
         </p>
