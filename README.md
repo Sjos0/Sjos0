@@ -1,7 +1,7 @@
 <!-- Início do Cabeçalho -->
 <div align="center">
   <a href="https://github.com/Sjos0">
-  <img src="./profile-border.svg" width="170px" alt="Foto de perfil do Samuel José"/>
+    <img src="./profile-border.svg" width="170px" alt="Foto de perfil do Samuel José"/>
   </a>
   <h1 align="center">Olá, eu sou o Samuel José 👋</h1>
   <h3 align="center">Desenvolvedor e criador na era da IA, transformando ideias em realidade através do 'Vibe Coding'.</h3>
@@ -39,8 +39,9 @@
     <td width="50%">
       <h3 align="center">NexusFlowAI</h3>
       <div align="center">
-        <a href="https://nexus-flow-orrwtkrkb-sjos0s-projects.vercel.app/" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sjos0&repo=NexusFlowAI&theme=tokyonight" />
+        <!-- Card do Projeto com a sua logo -->
+        <a href="https://github.com/Sjos0/NexusFlowAI" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sjos0&repo=NexusFlowAI&theme=tokyonight&show_owner=false&logo=https://raw.githubusercontent.com/Sjos0/NexusFlowAI/main/public/images/favicon.ico" />
         </a>
         <p>
           <a href="https://nexus-flow-orrwtkrkb-sjos0s-projects.vercel.app/" target="_blank">
@@ -51,10 +52,10 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">FORJAI</h3>
+      <h3 align="center">FORJAI (Em breve)</h3>
       <div align="center">
-          <!-- Quando o projeto FORJAI estiver no GitHub, adicione o link aqui. Por enquanto é um placeholder -->
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sjos0&repo=FORJAI&theme=tokyonight&show_owner=true" />
+          <!-- Quando o projeto FORJAI estiver público, você pode usar este modelo -->
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sjos0&repo=FORJAI&theme=tokyonight&show_owner=false" />
         <p>Uma plataforma de IA focada em auxiliar nos estudos, com geração de questões e outras ferramentas de aprendizado.</p>
       </div>
     </td>
@@ -82,6 +83,9 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
+  <!-- Card de Estatísticas CORRIGIDO -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sjos0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <!-- Card de Linguagens -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjos0&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
