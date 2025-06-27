@@ -19,7 +19,7 @@
 ### 👨‍💻 Sobre Mim
 
 <p align="left"> 
-  💡 Sou um 'Vibe Coder': uso assistentes de IA e ferramentas modernas para construir, focando mais na ideia e menos na complexidade do código tradicional. Minha jornada começou com a fascinação pela programação em linguagem natural e hoje exploro o potencial da **IA e do Design** para criar aplicações intuitivas.
+  💡 Sou um 'Vibe Coder': uso assistentes de IA e ferramentas modernas para construir, focando mais na ideia e menos na complexidade do código tradicional. Minha jornada começou com a fascinação pela programação em linguagem natural e hoje exploro o potencial da IA e do Design para criar aplicações intuitivas.
 </p>
 
 - 🔭 Atualmente desenvolvendo o **FORJAI**, uma ferramenta de IA para otimizar os estudos, e o **CLLMPAI**, uma plataforma de personagens de IA.
@@ -41,7 +41,7 @@
       <div align="center">
         <!-- Card do Projeto com a sua logo -->
         <a href="https://github.com/Sjos0/NexusFlowAI" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sjos0&repo=NexusFlowAI&theme=tokyonight&show_owner=false&logo=https://raw.githubusercontent.com/Sjos0/NexusFlowAI/main/public/images/favicon.ico" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sjos0&repo=NexusFlowAI&theme=tokyonight&show_owner=false&logo=https://raw.githubusercontent.com/Sjos0/NexusFlowAI/master/public/images/favicon.ico" />
         </a>
         <p>
           <a href="https://nexus-flow-orrwtkrkb-sjos0s-projects.vercel.app/" target="_blank">
