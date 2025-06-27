@@ -39,7 +39,7 @@
     <td width="50%">
       <h3 align="center">NexusFlowAI</h3>
       <div align="center">
-        <!-- Card do Projeto com a sua logo -->
+        <!-- LOGO CORRIGIDA AQUI -->
         <a href="https://github.com/Sjos0/NexusFlowAI" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sjos0&repo=NexusFlowAI&theme=tokyonight&show_owner=false&logo=https://raw.githubusercontent.com/Sjos0/NexusFlowAI/master/public/images/favicon.ico" />
         </a>
@@ -54,7 +54,6 @@
     <td width="50%">
       <h3 align="center">FORJAI (Em breve)</h3>
       <div align="center">
-          <!-- Quando o projeto FORJAI estiver público, você pode usar este modelo -->
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sjos0&repo=FORJAI&theme=tokyonight&show_owner=false" />
         <p>Uma plataforma de IA focada em auxiliar nos estudos, com geração de questões e outras ferramentas de aprendizado.</p>
       </div>
@@ -83,9 +82,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <!-- Card de Estatísticas CORRIGIDO -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sjos0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!-- ESTATÍSTICAS CORRIGIDAS AQUI -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sjos0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   
-  <!-- Card de Linguagens -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjos0&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjos0&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
 </p>
